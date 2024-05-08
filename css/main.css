@@ -2298,6 +2298,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
 }
 
+.banner-area1 {
+  /* background: url(../img/header-bg.jpg) center; */
+  background: url(../img/lost9.jpg) center;
+
+  background-size: cover;
+}
+
 .banner-area .overlay-bg {
   background-color: rgba(0, 0, 0, 0.7);
 }
