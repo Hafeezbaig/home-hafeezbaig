@@ -571,7 +571,7 @@ td, th {
 }
 
 .text-black {
-  color: #000;
+  color: #000000;
 }
 
 .transition {
@@ -3024,7 +3024,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .single-exhibition .price {
-  color: #233fb9;
+  color: #000000;
   font-size: 18px;
   font-weight: 700;
   margin-bottom: 30px;
